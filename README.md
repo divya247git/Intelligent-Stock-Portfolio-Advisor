@@ -1,4 +1,5 @@
 📈 Intelligent Stock Portfolio Advisor
+---
 
 Overview
 
@@ -10,8 +11,10 @@ The platform also provides stock price forecasting using LSTM neural networks, o
 ---
 
 Features
+---
 
 🔍 Fundamental Analysis
+---
 
 Analyze company financial statements and key ratios.
 
@@ -21,6 +24,7 @@ Determine the financial health of stocks.
 
 
 📊 Technical Analysis
+---
 
 Calculate popular technical indicators:
 
@@ -39,6 +43,7 @@ Identify potential entry and exit points.
 
 
 📰 Sentiment Analysis
+---
 
 Extract financial news and social media discussions.
 
@@ -48,6 +53,7 @@ Categorize sentiment as Positive, Neutral, or Negative.
 
 
 🤖 Stock Price Prediction
+---
 
 Train LSTM (Long Short-Term Memory) models on historical stock data.
 
@@ -57,6 +63,7 @@ Support short-term and medium-term predictions.
 
 
 💡 Recommendation Engine
+---
 
 Combine:
 
@@ -73,6 +80,7 @@ Generate Buy, Hold, or Sell recommendations.
 
 
 💼 Portfolio Optimization
+---
 
 Implement Modern Portfolio Theory (MPT).
 
@@ -89,6 +97,7 @@ Aggressive Risk
 
 
 🎮 Paper Trading Simulator
+---
 
 Simulate stock trading without real money.
 
@@ -98,6 +107,7 @@ Track virtual portfolio performance.
 
 
 📈 Performance Reporting
+---
 
 Generate monthly portfolio reports.
 
@@ -110,6 +120,7 @@ Provide attribution analysis showing which investment decisions improved or redu
 ---
 
 Technology Stack
+---
 
 Frontend
 
@@ -166,6 +177,7 @@ Social Media APIs
 ---
 
 Project Structure
+---
 
 Intelligent-Stock-Portfolio-Advisor/
 │
@@ -187,6 +199,7 @@ Intelligent-Stock-Portfolio-Advisor/
 ---
 
 Workflow
+---
 
 1. Collect stock market, news, and social media data.
 
@@ -220,6 +233,7 @@ Workflow
 ---
 
 Installation
+---
 
 Clone the Repository
 
@@ -236,8 +250,25 @@ python app.py
 
 
 ---
+---
+How to Run the App
+---
+
+Ensure the virtual environment is activated:
+
+Launching the Application
+Launch the Streamlit frontend locally:
+
+bash
+
+streamlit run app.py
+Open your web browser and navigate to: Local URL: http://localhost:8501
+Network URL: http://192.168.31.237:8501
+
+---
 
 Output 
+---
 
 <img width="1532" height="765" alt="image" src="https://github.com/user-attachments/assets/46e975d6-08dd-4fcf-9580-f2b32e01fa03" />
 <img width="1650" height="765" alt="image" src="https://github.com/user-attachments/assets/388c4daa-5b02-4292-b34b-ecafc2e45f80" />
@@ -248,6 +279,7 @@ Output
 
 
 Future Enhancements
+---
 
 Real-time stock alerts
 
@@ -266,6 +298,7 @@ ESG investment recommendations
 ---
 
 Target Users
+---
 
 Retail Investors
 
@@ -282,6 +315,7 @@ Finance Students and Researchers
 ---
 
 Expected Outcomes
+---
 
 Improved investment decision-making
 
@@ -298,6 +332,7 @@ Transparent and explainable investment insights
 ---
 
 License
+---
 
 This project is licensed under the MIT License.
 
@@ -305,6 +340,7 @@ This project is licensed under the MIT License.
 ---
 
 Author
+---
 
 Divyanshi Yadav
 B.Tech CSE (AI & Deep Learning)
