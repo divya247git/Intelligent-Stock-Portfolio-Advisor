@@ -223,7 +223,7 @@ Installation
 
 Clone the Repository
 
-git clone https://github.com/Intelligent-Stock-Portfolio-Advisor.git
+git clone https://github.com/divya247git/Intelligent-Stock-Portfolio-Advisor.git
 cd Intelligent-Stock-Portfolio-Advisor
 
 Install Dependencies
